@@ -6,3 +6,4 @@ main.py
 dist
 src/PyWhiz.egg-info/
 venv
+.DS_Store
