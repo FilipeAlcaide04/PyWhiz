@@ -1,4 +1,8 @@
 .env
 .venv
 struct.txt
-
+main.py
+.vscode
+dist
+src/PyWhiz.egg-info/
+venv
